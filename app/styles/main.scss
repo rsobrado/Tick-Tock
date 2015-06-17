@@ -17,6 +17,7 @@ body{
   color: floralwhite;
 }
 input, textarea, select, a { outline: none; }
+p{padding: 0;line-height: 0;}
 
 $main-color: greenyellow;
 $secondary-color: darkturquoise;
@@ -39,7 +40,7 @@ $secondary-color: darkturquoise;
 .crono-data{
   text-align: center;
   color: rgba(white,0.5);
-  font-size: 20px;
+  font-size: 32px;
 }
 .time-box{
   color: $main-color;
