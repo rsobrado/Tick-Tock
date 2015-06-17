@@ -1,0 +1,12 @@
+<div class="watch-container">
+  <div class="time-box">
+    <h2 class="time">{{clock | date:'hh:mm'}}<span class="seconds">{{ clock | date:'.ss'}}</span><span class="am-pm">{{date | date:' a'}}</span></h2>
+    <h3 class="date">{{clock | date:'EEE dd MMM, yyyy'}}</h3>
+  </div>
+  <span class="shine"></span>
+  <ul class="watch-controls">
+    <li><i class="fa fa-bell"></i></li>
+    <li><i class="fa fa-clock-o"></i></li>
+  </ul>
+</div>
+<span class="watch-border"></span>
