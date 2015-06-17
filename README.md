@@ -11,7 +11,7 @@ Digital Clock made using angular
 
 ## Build & development
 
-####'bower install' & 'npm install' for dependecies and modules.
+####Run`bower install` & `npm install` for dependecies and modules.
 
 ####Run `grunt` for building and `grunt serve` for preview.
 
