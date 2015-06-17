@@ -5,9 +5,9 @@ Digital Clock made using angular
 
 ###Functionality
 
-####Display current tiem
-####Alarm(working on...)
-####Crono(soon... maybe...)
+#####Display current tiem
+#####Alarm(working on...)
+#####Crono(soon... maybe...)
 
 ## Build & development
 
