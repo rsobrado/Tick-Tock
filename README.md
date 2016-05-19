@@ -3,6 +3,8 @@
 
 Digital Clock made using angular
 
+##### Demo: [rsobrado.github.com/tick-tock](https://rsobrado.github.com/tick-tock)
+
 ###Functionality
 
 #####Display current tiem
