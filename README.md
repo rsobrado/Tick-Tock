@@ -3,7 +3,7 @@
 
 Digital Clock made using angular
 
-##### Demo: [rsobrado.github.com/tick-tock](https://rsobrado.github.com/tick-tock)
+##### Demo: [rsobrado.github.com/Tick-Tock](https://rsobrado.github.com/Tick-Tock)
 
 ###Functionality
 
